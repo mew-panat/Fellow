@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072725862129",
+    "firebase_url": "https://fellow-87736.firebaseio.com",
+    "project_id": "fellow-87736",
+    "storage_bucket": "fellow-87736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072725862129:android:5c34667de1fab90d",
+        "android_client_info": {
+          "package_name": "com.unique.fellow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072725862129-7fa9dddv0mhgco7pe6rs0n3qehdine48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unique.fellow",
+            "certificate_hash": "033ee158d4247e39ed949462708ff9890f4e0887"
+          }
+        },
+        {
+          "client_id": "1072725862129-hj2p38u13f8ek1vrv9sl9mqmosd939m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWF5UKaEflEQUYA27_NQ3zxXWD5qGcPPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072725862129-hj2p38u13f8ek1vrv9sl9mqmosd939m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

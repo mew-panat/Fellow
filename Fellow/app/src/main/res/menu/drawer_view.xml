@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/createProject"
+        android:icon="@drawable/ic_add"
+        android:title="Create new project" />
+    <item
+        android:id="@+id/accountSetting"
+        android:icon="@drawable/ic_person"
+        android:title="Account setting" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout" />
+</menu>

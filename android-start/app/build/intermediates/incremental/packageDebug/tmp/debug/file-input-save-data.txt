@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Aug 30 13:03:03 ICT 2018
+1.base=D\:\\cpe327project\\android-start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=crashlytics-build.properties
+0.set=ASSET
+0.base=D\:\\cpe327project\\android-start\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex
